@@ -4,7 +4,7 @@
 import re
 
 import razdel
-import preprocessor
+from fork_lib_aligner.src.lingtrain_aligner import preprocessor
 
 RU_CODE = "ru"
 BE_CODE = "bu"
