@@ -6,7 +6,8 @@ import sqlite3
 from collections import defaultdict
 
 import more_itertools as mit
-from lingtrain_aligner import aligner, helper
+import aligner
+import helper
 from scipy import spatial
 from tqdm import tqdm
 

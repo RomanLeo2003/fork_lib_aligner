@@ -5,7 +5,7 @@ import logging
 import os
 
 import numpy as np
-from lingtrain_aligner import helper
+import helper
 from matplotlib import pyplot as plt
 from sklearn.linear_model import HuberRegressor
 from sklearn.preprocessing import StandardScaler

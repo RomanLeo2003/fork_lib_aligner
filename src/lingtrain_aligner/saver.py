@@ -1,7 +1,7 @@
 """Output functions"""
 
 from datetime import datetime
-from lingtrain_aligner import helper, preprocessor, reader, i18n, splitter
+import helper, preprocessor, reader, i18n, splitter
 import json
 import xmltodict
 from lxml import etree

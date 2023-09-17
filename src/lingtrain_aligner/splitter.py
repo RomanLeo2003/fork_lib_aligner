@@ -4,7 +4,7 @@
 import re
 
 import razdel
-from lingtrain_aligner import preprocessor
+import preprocessor
 
 RU_CODE = "ru"
 BE_CODE = "bu"
