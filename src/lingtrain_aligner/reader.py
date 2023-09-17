@@ -1,5 +1,5 @@
 from collections import defaultdict
-from lingtrain_aligner import helper, preprocessor, resolver, aligner
+from fork_lib_aligner.src.lingtrain_aligner import helper, preprocessor, resolver, aligner
 import json
 import pathlib
 import copy

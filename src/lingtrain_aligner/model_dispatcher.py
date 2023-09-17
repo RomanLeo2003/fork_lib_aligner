@@ -2,7 +2,7 @@
 
 
 # from models.use_multilingual_models import use_multilingual_v3_model
-from sententense_transformers_models import (
+from fork_lib_aligner.src.lingtrain_aligner.sententense_transformers_models import (
     sentence_transformers_model,
     sentence_transformers_model_labse,
     sentence_transformers_model_xlm_100,

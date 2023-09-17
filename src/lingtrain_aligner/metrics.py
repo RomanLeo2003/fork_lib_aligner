@@ -1,5 +1,5 @@
 import json
-from lingtrain_aligner import helper
+from fork_lib_aligner.src.lingtrain_aligner import helper
 
 
 def chain_score(db_path, mode="to"):

@@ -1,7 +1,7 @@
 import os
 import pickle
 
-from helper import lazy_property
+from fork_lib_aligner.src.lingtrain_aligner.helper import lazy_property
 from sentence_transformers import SentenceTransformer
 import torch
 

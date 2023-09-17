@@ -9,12 +9,12 @@ import sqlite3
 from collections import defaultdict
 
 import numpy as np
-from lingtrain_aligner import (
+from fork_lib_aligner.src.lingtrain_aligner import (
     model_dispatcher,
     vis_helper,
     preprocessor,
     constants as con,
-    helper,
+    helper
 )
 from scipy import spatial
 

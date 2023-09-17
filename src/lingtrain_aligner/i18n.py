@@ -1,4 +1,4 @@
-from lingtrain_aligner import splitter as sp
+from fork_lib_aligner.src.lingtrain_aligner import splitter as sp
 
 CONTENTS = {
     sp.RU_CODE: "Содержание",
